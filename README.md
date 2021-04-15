@@ -1,4 +1,4 @@
-<p align="center"> <img src="image/hello.gif" alt="hello" width="650px" height="450px" /> </p>
+<p align="center"> <img src="image/hello.gif" alt="hello" width="600px" height="400px" /> </p>
 <h1 align="center">Hi 👋, I'm Triyambaka Mishra</h1>
 <h3 align="center">I am a deep learning developer</h3>
 
